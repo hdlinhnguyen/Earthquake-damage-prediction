@@ -1,2 +1,2 @@
-# Earthquake damage prediction (Practice DS project)
+# Earthquake damage prediction (Practical DS project)
 
